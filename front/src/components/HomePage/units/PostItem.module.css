@@ -1,0 +1,16 @@
+.bodyPost {
+    word-break:break-all;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    background-color: #dfd7f8;
+    border: 2px solid gray;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.bodyPost:hover {
+    scale: 1.01;
+    border: 2px solid black;
+}

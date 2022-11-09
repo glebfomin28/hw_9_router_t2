@@ -1,0 +1,27 @@
+.postsList {
+    padding: 8px 10px;
+    width: 98%;
+}
+
+.newPostBlock {
+    padding: 15px;
+    width: 100%;
+    text-align: right;
+    background-color: #eae5fa;
+    border: 2px solid black;
+}
+
+.button {
+    font-size: 18px;
+    padding: 5px;
+    background-color: #1c1d38;
+    color: #fdfdfe;
+    border-radius: 5px;
+    border: 1px solid #12121a;
+    transition: scale 0.5s;
+    cursor: pointer;
+}
+
+.button:hover {
+    scale: 1.1;
+}

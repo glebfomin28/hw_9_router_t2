@@ -1,0 +1,26 @@
+.bodyNewPost {
+    position: relative;
+    margin: 40px 0;
+    padding: 30px 15px;
+    max-width: 100%;
+    height: auto;
+    background-color: #c8b4fa;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.delete {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: brown;
+    width: 40px;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+}
+.textarea {
+    max-width: 100%;
+    resize: none;
+    font-size: 25px;
+}
